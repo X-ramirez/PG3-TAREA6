@@ -9,7 +9,8 @@ namespace Hello_Word
 
             Console.WriteLine("Hola Mundo, Deriam");
             Console.WriteLine("Hola Mundo, Alan");
-            Console.Readline();
+            Cosnole.WriteLine("Prueba 2");
+            Console.ReadLine();
         }
     }
 }
