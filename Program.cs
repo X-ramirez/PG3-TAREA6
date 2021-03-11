@@ -6,7 +6,7 @@ namespace Hello_Word
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! yo soy xiolin");
+            Console.WriteLine("Hello World! yo soy xiolin, alan y deriam");
         }
     }
 }
